@@ -7,7 +7,7 @@ byte k3 = 14;
 byte k1 = 13;
 int status[4] = { 0, 0, 0, 0 };
 int key[4] = { 0, 0, 0, 0 };
-int keyset[4] = { 'z', '.', 'c', ' ' }; //可自定义
+int keyset[4] = { 'z', 'x', 'c', ' ' }; //可自定义
 int sumend = 0;
 
 void setup() {
